@@ -1,0 +1,8 @@
+.nav-item {
+    color: black;
+    margin-right: 20px;
+}
+.nav-item:hover{
+    color: blue;    
+    cursor: pointer;
+}

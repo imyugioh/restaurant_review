@@ -1,0 +1,15 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+
+export const GET_ALL_RESTAURANTS = "GET_ALL_RESTAURANTS";
+export const EDIT_RESTAURANT = "EDIT_RESTAURANT";
+export const DELETE_RESTAURANT = "DELETE_RESTAURANT";
+
+export const GET_ALL_REVIEWS = "GET_ALL_REVIEWS";
+export const GET_REVIEWS = "GET_REVIEWS";
+export const EDIT_REVIEW = "EDIT_REVIEW";
+export const DELETE_REVIEW = "DELETE_REVIEW";
+
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const EDIT_USER = "EDIT_USER";
+export const DELETE_USER = "DELETE_USER";

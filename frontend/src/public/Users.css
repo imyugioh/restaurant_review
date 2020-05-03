@@ -1,0 +1,10 @@
+
+.userlist {
+    margin-top: 20px;
+}
+
+.addUserDlg .form-control {
+    margin-top:10px;
+    margin-bottom:10px;
+    width: 500px;
+}
